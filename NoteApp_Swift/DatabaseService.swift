@@ -1,0 +1,2 @@
+class DatabaseService: NSObject {
+}
